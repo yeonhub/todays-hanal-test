@@ -362,11 +362,11 @@ Error generating stack: `+i.message+`
         }
     }
     .uploadButton {
-        width: 90%;
+        width: 100%;
         height: 7vh;
         border: none;
         background: lightgray;
-        position: fixed;
+        margin-top: 5vw;
         bottom: 10%;
         border-radius: 2vw;
         font-size: 6vw;
