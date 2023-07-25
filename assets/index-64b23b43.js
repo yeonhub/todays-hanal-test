@@ -1314,7 +1314,7 @@ margin-bottom: 7dvh;
                         overflow: hidden;
                         height: 4dvh;
                         width: 4dvh;
-                        padding: 1vw;
+                        padding: 0.5dvh;
                         box-sizing: border-box;
                         margin-right: 3vw;
                     }
@@ -1396,7 +1396,7 @@ margin-bottom: 7dvh;
                 font-size: 4vw;
                 padding: 0.5dvh;
                 box-sizing: border-box;
-                margin: 2vw 0;
+                margin: 0.5dvh 0;
 
                 svg {
                     font-size: 8vw;
@@ -1409,7 +1409,8 @@ margin-bottom: 7dvh;
                 font-size: 4vw;
                 padding: 0.5dvh;
                 box-sizing: border-box;
-                margin: 3vw;
+                margin:  0.5dvh 3vw;
+                box-sizing: border-box;
 
                 .comment {
                     height: 100%;
@@ -1439,7 +1440,7 @@ margin-bottom: 7dvh;
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    height: 5dvh;
+                    height: 4dvh;
 
                 }
             }
